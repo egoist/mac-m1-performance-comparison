@@ -19,3 +19,4 @@ yarn workspace vite build
 - Mac Mini M1 (16GB): 23.44s
 - NUC10 i7-6core (32GB): 36.72s
 - Macbook Pro 2015 i5-2core (8GB): 54.22s
+- Dell XPS 15 9500 i7-6core (16GB): 36.01s
