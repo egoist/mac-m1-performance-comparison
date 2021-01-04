@@ -16,6 +16,7 @@ yarn workspace vite build
 
 </details>
 
+- AMD Ryzen 7 5800X (32GB): 17.89s
 - Mac Mini M1 (16GB): 23.44s
 - Dell XPS 15 9500 i7-6core (16GB): 36.01s
 - NUC10 i7-6core (32GB): 36.72s
