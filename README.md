@@ -18,6 +18,7 @@ yarn workspace vite build
 
 - AMD Ryzen 7 5800X (32GB): 17.89s
 - Mac Mini M1 (16GB): 23.44s
+- Intel i7-8700 6core 3.20GHz (16GB): 23.54s
 - MacBook Pro 2018 2.6GHz i7-6core (32GB): 28.50s
 - Dell XPS 15 9500 i7-6core (16GB): 36.01s
 - NUC10 i7-6core (32GB): 36.72s
