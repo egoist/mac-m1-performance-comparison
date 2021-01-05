@@ -23,7 +23,7 @@ yarn workspace vite build
 - MacBook Pro 2018 2.6GHz i7-6core (32GB): 28.50s
 - Dell XPS 15 9500 i7-6core (16GB): 36.01s
 - NUC10 i7-6core (32GB): 36.72s
-- Macbook Pro 2015 i5-2core (8GB): 54.22s
+- Macbook Pro 2015 i5-2core (8GB): 48.69s
 
 ## Building Node.js
 
